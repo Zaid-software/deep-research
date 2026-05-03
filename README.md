@@ -157,7 +157,6 @@ deep-research/
 │   └── results.json                 # Output saved after each run
 │
 ├── requirements.txt
-├── .env.example
 └── .gitignore
 ```
 
