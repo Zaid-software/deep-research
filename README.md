@@ -506,9 +506,6 @@ Install: `pip install -r requirements.txt`
 ```
 main        <- final submission (stable)
   └── develop  <- all active development
-        ├── feature/routing
-        ├── feature/parallel
-        └── feature/reflection
 ```
 
 All feature work is done in feature branches, merged into `develop`, then
